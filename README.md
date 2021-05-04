@@ -1,5 +1,7 @@
 # calender-todolist
 
+##萬年曆和todo-list的合體，用來練習vue cli 和 bootstrap vue
+
 ## Project setup
 ```
 npm install
